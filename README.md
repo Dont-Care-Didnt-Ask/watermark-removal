@@ -6,6 +6,7 @@
 
 ## Goal
 Implement and compare several approaches for watermark removal, using classical CV instruments.
+In our project we focus on detecting the location of watermarks, and use standard functions for inpaiting.
 
 ## Results
 We have tried
