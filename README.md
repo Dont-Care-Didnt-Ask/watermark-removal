@@ -13,6 +13,6 @@ We have tried
 1. Pattern matching
 2. SIFT intersection
 3. SIFT clusterization
-4. Median gradient
+4. Median gradient (idea from [this](https://openaccess.thecvf.com/content_cvpr_2017/papers/Dekel_On_the_Effectiveness_CVPR_2017_paper.pdf) paper)
 
 For detailed description of these methods and their comparison check the presentation.
